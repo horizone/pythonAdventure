@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
 import string
 gameMap = [
 {'desc':"Du står i ett fint Vardagsrum, Norrut finns en hall, österut ligger ryssland", 'n':1, 'o': 3, 'v': -1, 'game': 'ongoing'},
